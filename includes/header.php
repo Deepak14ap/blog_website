@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
 
-    <title>Welcome To PHPLoversBlog</title>
+    <title>Welcome To Tech Blog</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">
